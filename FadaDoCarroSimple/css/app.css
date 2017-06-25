@@ -1,0 +1,13 @@
+.car {
+    width: 100%;
+    height: auto;
+}
+
+.logo-container {
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.logo {
+    max-height: 40px;
+}
